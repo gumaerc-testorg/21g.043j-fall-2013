@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ad8d2c2d-ddb1-5ec1-ec9b-e01debb7f034
 ---
@@ -14,7 +16,7 @@ Course sessions include lecture and discussion sections, generally on alternatin
 Course Description
 ------------------
 
-This subject provides an overview of Asian American history and examines its relevance for contemporary Asian American issues. We will cover the first wave of Asian immigration in the 19th century, the rise of anti-Asian movements, the experiences of Asian Americans during WWII, the emergence of the Asian American movement in the 1960s, and the new wave of post–1965 Asian immigration. The class examines the role these experiences played in the formation of Asian American ethnic identity, and considers key issues such as racial stereotyping, media racism, affirmative action, the glass (or "bamboo") ceiling, the model minority stereotype, and anti-Asian harassment or violence.
+This subject provides an overview of Asian American history and examines its relevance for contemporary Asian American issues. We will cover the first wave of Asian immigration in the 19{{< sup "th" >}} century, the rise of anti-Asian movements, the experiences of Asian Americans during WWII, the emergence of the Asian American movement in the 1960s, and the new wave of post–1965 Asian immigration. The class examines the role these experiences played in the formation of Asian American ethnic identity, and considers key issues such as racial stereotyping, media racism, affirmative action, the glass (or "bamboo") ceiling, the model minority stereotype, and anti-Asian harassment or violence.
 
 Prerequisites
 -------------
