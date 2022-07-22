@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: fcbc2d93-fb14-8c2f-7498-a5fbd83f54f6
 ---
@@ -511,7 +514,7 @@ Discussion
 {{< tdopen >}}
 
 
-Maira, Sunaina."[Youth Culture, Citizenship and Globalization: South Asian Muslim Youth in the United States after September 11th](https://muse.jhu.edu/journals/comparative_studies_of_south_asia_africa_and_the_middle_east/v024/24.1maira.html)." _Comparative Studies of South Asia, Africa and the Middle East_ 24, no. 1 (2004): 219–31.
+Maira, Sunaina."[Youth Culture, Citizenship and Globalization: South Asian Muslim Youth in the United States after September 11{{< sup "th" >}}](https://muse.jhu.edu/journals/comparative_studies_of_south_asia_africa_and_the_middle_east/v024/24.1maira.html)." _Comparative Studies of South Asia, Africa and the Middle East_ 24, no. 1 (2004): 219–31.
 
 ———. "[Identity Dub: The Paradoxes of an Indian American Youth Subculture (New York Mix)](http://www.jstor.org/stable/656528)." _Cultural Anthropology_ 14, no. 1 (1999): 29–60.
 
