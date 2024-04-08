@@ -22,7 +22,7 @@ In 1883 Wong Chin Foo (1847–1898) invited the infamous "Sandlotter" Denis Kear
 
 Readings for the Assignment:
 
-Selection from Seligman, Scott D. _[The First Chinese American: The Remarkable Life of Wong Chin Foo](http://www.amazon.com/The-First-Chinese-American-Remarkable/dp/9888139908)._ Hong Kong University Press_,_ 2013. Pages xxi-xxvi, 111-117,149-153, 319-320, 323-325.
+Selection from Seligman, Scott D. _{{% resource_link "da807bc4-3573-42d2-a75a-096f8d6c4b74" "The First Chinese American: The Remarkable Life of Wong Chin Foo" %}}._ Hong Kong University Press_,_ 2013. Pages xxi-xxvi, 111-117,149-153, 319-320, 323-325.
 
 {{% resource_link 8311b2e6-54b8-26f1-d0c2-e4900d535e04 "Paper Assignment 2" %}}
 
@@ -36,7 +36,7 @@ Paper 3 (Draft) - Due session 19 - 2250 words
 
 This paper will be revised and resubmitted. A separate grade will be assigned for each submission.
 
-In 2012, the Pew Research Center issued a report on "[The Rise of Asian Americans](http://www.pewsocialtrends.org/2012/06/19/the-rise-of-asian-americans/)," claiming that: "Asian Americans are the highest-income, best-educated and fastest-growing racial group in the United States." This report received much attention in the press, but was sharply criticized by many Asian American organizations and commentators, who contended that the report was inaccurate and one-sided, and that it furthermore perpetuated the model minority myth, contributing to the formation of Asian Americans as an "invisible" or "forgotten minority.” Based on your reading of this report (the original 2012 report and the updated 2013 version) and its critiques, do you believe that the model minority stereotype is, on balance, beneficial or detrimental to Asian Americans?
+In 2012, the Pew Research Center issued a report on "{{% resource_link "e9a8b450-2649-4b56-82c2-ddfe35abf3ed" "The Rise of Asian Americans" %}}," claiming that: "Asian Americans are the highest-income, best-educated and fastest-growing racial group in the United States." This report received much attention in the press, but was sharply criticized by many Asian American organizations and commentators, who contended that the report was inaccurate and one-sided, and that it furthermore perpetuated the model minority myth, contributing to the formation of Asian Americans as an "invisible" or "forgotten minority.” Based on your reading of this report (the original 2012 report and the updated 2013 version) and its critiques, do you believe that the model minority stereotype is, on balance, beneficial or detrimental to Asian Americans?
 
 Final Draft: The Pros and Cons of the Model Minority Stereotype - Due multiple sessions
 
