@@ -150,7 +150,7 @@ If you are dealing with a personal or medical issue that is impacting your abili
 
 ### Academic Integrity Policy
 
-I expect all students to be familiar with MIT's policies and guidelines on academic integrity as outlined in the handbook on {{% resource_link "83024f2a-6df8-4c94-9c7c-67b7118b674d" "academic integrity" %}}.  
+I expect all students to be familiar with MIT's policies and guidelines on academic integrity as outlined in the handbook on [academic integrity](http://web.mit.edu/academicintegrity/).  
 Please review all the guidelines in the handbook, including the information on responsible [paraphrasing](http://web.mit.edu/academicintegrity/writing/paraphrasing.html ). You will also be expected to review the guidelines for copyright and fair use, provided by MIT libraries.
 
 Plagiarism and other forms of academic dishonesty are serious offenses and will be dealt with according to MIT policy and procedures.
@@ -444,7 +444,7 @@ Chinatown Field Trip writeup due
 Guest Lecture: Asian Americans Working in Asia
 {{< tdclose >}}
 {{< tdopen >}}
-Guest lecture: Professor {{% resource_link "a27c09a7-fa35-4f3f-bb39-3adc95a7b748" "Edward J. W. Park" %}}
+Guest lecture: Professor [Edward J. W. Park](http://faculty.lmu.edu/epark/)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -474,7 +474,7 @@ Writing Workshop
 Guest Lecture
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecture: Professor {{% resource_link "d24ca8b8-7e08-4336-a85a-a085e520cb94" "Min Song" %}}
+Guest Lecture: Professor [Min Song](https://www.bc.edu/bc-web/schools/mcas/departments/english/people/faculty-directory/min-hyoung--song.html)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -504,7 +504,7 @@ Discussion
 Guest Lecture
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Lecture: Professor {{% resource_link "9da919ba-53f3-433d-bdee-90cf5af41f34" "Pawan Dhingra" %}}
+Guest Lecture: Professor [Pawan Dhingra](http://ase.tufts.edu/sociology/facultyDhingra.asp)
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -27,7 +27,7 @@ How you answer these questions will help you figure out your thesis, which you s
 Appendix: (This 500 words will be included in the overall 2500-word word count.)
 --------------------------------------------------------------------------------
 
-The body of your paper will be followed by an Appendix: give a 250-word description of an original source you identified for Wong Chin Foo and another 250-word description of an original source you identified for Denis Kearney or the Workingmen's Party of California. Tell us what the source is, when it was written, who wrote it, and for what purpose and intended audience. Also tell us how you found the source (through what search method) and how you evaluated the reliability of this source (using guidelines provided on our class lib-guides page). Please include links or scans of your primary sources. You may find this {{% resource_link "492e6afa-1f77-4403-8ecb-41e4bad66a74" "worksheet (PDF)" %}} prepared by the National Records and Archives Administration helpful.   
+The body of your paper will be followed by an Appendix: give a 250-word description of an original source you identified for Wong Chin Foo and another 250-word description of an original source you identified for Denis Kearney or the Workingmen's Party of California. Tell us what the source is, when it was written, who wrote it, and for what purpose and intended audience. Also tell us how you found the source (through what search method) and how you evaluated the reliability of this source (using guidelines provided on our class lib-guides page). Please include links or scans of your primary sources. You may find this [worksheet (PDF)](http://www.archives.gov/education/lessons/worksheets/written_document_analysis_worksheet.pdf) prepared by the National Records and Archives Administration helpful.   
  
 
 Important Points to Remember
@@ -36,7 +36,7 @@ Important Points to Remember
 *   This paper is essentially an exercise in expository writing, but it will also help you hone skills basic to research reports, especially in conducting and documenting original research using historical primary sources.
 *   Address your paper to a general audience with no background in Asian American history.
 *   Your paper must have a clear and compelling thesis.
-*   Your paper must have proper citations throughout. Please use footnotes following the {{% resource_link "3ed48e6c-aa0b-4ce9-8fef-546fb51684de" "Chicago Manual of Style" %}} humanities conventions. Your paper should also include a bibliography.  
+*   Your paper must have proper citations throughout. Please use footnotes following the [Chicago Manual of Style](http://www.chicagomanualofstyle.org/tools_citationguide.html) humanities conventions. Your paper should also include a bibliography.  
      
 
 In Writing This Paper You Should:
