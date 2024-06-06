@@ -13,7 +13,7 @@ uid: fcbc2d93-fb14-8c2f-7498-a5fbd83f54f6
 
 ## Required Texts
 
- Houston, Jeanne. *Farewell to Manzanar*. Ember, 2012. ISBN: 9780307976079. \[Preview with {{% resource_link "a4beee9b-e09b-4739-a577-dbe53f98feca" "Google Books" %}}\]
+ Houston, Jeanne. *Farewell to Manzanar*. Ember, 2012. ISBN: 9780307976079. \[Preview with [Google Books](http://books.google.com/books?id=0nuR5MRVzaEC&pg=PAfrontcover)\]
 
 ## Recommended Texts
 
@@ -35,11 +35,11 @@ Introduction to the Class
 
 ### Recommended Readings
 
-Chua, Amy. "{{% resource_link "5f3950e3-ef33-4442-a713-52e5166c8f07" "Why Chinese Mothers Are Superior" %}}," *Wall Street Journal*, January 8, 2011.
+Chua, Amy. "[Why Chinese Mothers Are Superior](https://www.wsj.com/articles/SB10001424052748704111504576059713528698754)," *Wall Street Journal*, January 8, 2011.
 
-Yang, Wesley. "{{% resource_link "5ebc8417-2a03-4667-a343-8450bf1f84f1" "Paper Tigers" %}}," *New York Magazine*, May 8, 2011.
+Yang, Wesley. "[Paper Tigers](http://nymag.com/news/features/asian-americans-2011-5/)," *New York Magazine*, May 8, 2011.
 
-Mervis, Jeffrey. "{{% resource_link "e376b939-0fdd-4713-9158-58c8f6995742" "A Glass Ceiling for Asian Scientists?" %}}" *Science* 310, no. 5748 (2005): 606–7 and responses.
+Mervis, Jeffrey. "[A Glass Ceiling for Asian Scientists?](https://ecommons.cornell.edu/handle/1813/78747)" *Science* 310, no. 5748 (2005): 606–7 and responses.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 2: Early Immigrants–The First Wave**
@@ -55,15 +55,15 @@ No readings.
 Discussion
 {{< tdclose >}}{{< tdopen >}}
 
-Takaki, Ronald. *Strangers from a Different Shore: A History of Asian Americans*. Little Brown and Company, 1998, pp. 21–75. ISBN: 9780316831307. \[Preview with {{% resource_link "37cfba0a-9b62-4f32-9a4c-2108d5ffd685" "Google Books" %}}\]
+Takaki, Ronald. *Strangers from a Different Shore: A History of Asian Americans*. Little Brown and Company, 1998, pp. 21–75. ISBN: 9780316831307. \[Preview with [Google Books](http://books.google.com/books?id=mt_tw5cn8y0C&pg=PAfrontcover)\]
 
-Lee, Yan Phou. *When I Was a Boy in China*. University of California Libraries, 1887. \[Preview with {{% resource_link "22dcbfef-e889-4b10-9430-2ad729fd637e" "Google Books" %}} \[Excerpt\]
+Lee, Yan Phou. *When I Was a Boy in China*. University of California Libraries, 1887. \[Preview with [Google Books](http://books.google.com/books?id=UvDMQ92leO4C&pg=PAfrontcover) \[Excerpt\]
 
 Kang, Younghill. *East Goes West: The Making of an Oriental Yankee*. Charles Scribner's Sons, 1937. \[Excerpt\]
 
-Chew, Lee. "{{% resource_link "37c4c776-6ba4-4dfc-9039-63a4463d159e" "The Biography of a Chinaman" %}}." *The Independent* 55, no. 2829 (1903): 417–23.
+Chew, Lee. "[The Biography of a Chinaman](http://college.cengage.com/history/ayers_primary_sources/leechew_biography_chinaman.htm)." *The Independent* 55, no. 2829 (1903): 417–23.
 
-Kum, Sing. "Letter by a Chinese Girl." In *Chinese American Voices: From the Gold Rush to the Present*. Edited by Judy Yung, Gordon H. Chang, and I. Mark Lai. University of California Press, 2006. ISBN-13: 9780520243101 (Originally published in 1876.) \[Preview with {{% resource_link "c1154a57-3df1-424b-a4fe-1a91d640df93" "Google Books" %}}\]
+Kum, Sing. "Letter by a Chinese Girl." In *Chinese American Voices: From the Gold Rush to the Present*. Edited by Judy Yung, Gordon H. Chang, and I. Mark Lai. University of California Press, 2006. ISBN-13: 9780520243101 (Originally published in 1876.) \[Preview with [Google Books](http://books.google.com/books?id=eMvaMuZkwvcC&lpg=PA15&ots=dSi889WjKv&dq=kum%20sing%20letters%20chinese%20girl&pg=PA15#v=onepage&q&f=false)\]
 
 Wing, Yung. *My Life in China and America*. H. Holt and Company, 1909.
 
@@ -83,21 +83,21 @@ No readings.
 Discussion
 {{< tdclose >}}{{< tdopen >}}
 
-Harte, Bret. "{{% resource_link "c2b3a513-bf43-4b8e-a840-76a79ccb6258" "Ah Sin: The Heathen Chinee" %}}." 1870.
+Harte, Bret. "[Ah Sin: The Heathen Chinee](http://etext.virginia.edu/railton/roughingit/map/chiharte.html)." 1870.
 
-{{% resource_link "72513d51-bf9d-4997-b294-eab7dec0de23" "Letter of the Chinamen to Governor Bigler" %}}, April 1852.
+[Letter of the Chinamen to Governor Bigler](http://dict.cn/Letter%20of%20the%20Chinamen%20to%20Governor%20Bigler,%20April%201852_2E), April 1852.
 
 Rev. Gibson, Otis. *"Chinaman or White Man, Which?" Reply to Father Buchard*. Adegi Graphics LLC, 2011. ISBN: 9780543730299.
 
 Greene, George W. *The Labor Agitators or, the Battle for Bread: The Party of the Future, the Workingmen's Party of California: It's Bird and Organization. It's Leaders and Its Purposes: Corruption in Our Local and State Governments. Venality of the Press.* George W. Greene, 1879.
 
-Lee, Yan Phou. "{{% resource_link "cd0d0056-cb6a-4e4f-95e5-430c6d0c1116" "The Chinese Must Stay" %}}." *The North American Review* 148, no. 389 (1889): 476-483. 
+Lee, Yan Phou. "[The Chinese Must Stay](http://www.jstor.org/stable/25101763)." *The North American Review* 148, no. 389 (1889): 476-483. 
 
 Chinese Equal Rights League. Appeal of the Chinese Equal Rights League to the People of the United States for Equality of Manhood. The League, 1892.
 
-American Federation of Labor. "{{% resource_link "9057ee14-39de-434e-a0f8-cdbf26213bdd" "Some Reasons for Chinese Exclusion: Meat Vs. Rice" %}}." 1901.
+American Federation of Labor. "[Some Reasons for Chinese Exclusion: Meat Vs. Rice](https://archive.org/details/somereasonsforc00labogoog/page/n16/mode/2up)." 1901.
 
-Francisco, San. {{% resource_link "6de5869a-af84-4f80-a304-e9d8accc43d0" "\"Proceedings of the Asiatic Exclusion League.\" (PDF - 2.0MB)" %}} 1908.
+Francisco, San. ["Proceedings of the Asiatic Exclusion League." (PDF - 2.0MB)](http://moses.law.umn.edu/darrow/documents/Dec%2008%20Asiatic.pdf) 1908.
 
 Gjerde, Jon. *Major Problems in American Immigration and Ethnic History*. Houghton Mifflin Company, 1998. ISBN: 9780395815328.
 
@@ -107,7 +107,7 @@ Gjerde, Jon. *Major Problems in American Immigration and Ethnic History*. Hought
 
 \---. Hao, Fu Chi. Chinese American Reprimands Americans for Anti-Chinese Attitudes and Law, pp. 280-281.
 
-Browse {{% resource_link "d170475d-71ac-46cc-93da-4d338281bc47" "Chinese immigration files" %}} from the National Archives.  
+Browse [Chinese immigration files](http://www.archives.gov/research/chinese-americans/) from the National Archives.  
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 4: Chinatown**
@@ -125,13 +125,13 @@ Chinatown Field Trip
 
 Read ahead for Week 9
 
-Tang, Joyce. "{{% resource_link "c74367a0-39f8-4dc4-bae9-17260b1d66a7" "The Model Minority Thesis Revisited: (Counter) Evidence from the Science and Engineering Fields" %}}." *Journal of Applied Behavioral Science* 33, no. 3 (1997): 291–315.
+Tang, Joyce. "[The Model Minority Thesis Revisited: (Counter) Evidence from the Science and Engineering Fields](http://dx.doi.org/10.1177/0021886397333003)." *Journal of Applied Behavioral Science* 33, no. 3 (1997): 291–315.
 
-Woo, Deborah. "The State of Research on The Glass Ceiling." In *Glass Ceilings and Asian Americans: The New Face of Workplace Barriers*. AltaMira Press, 2000. ISBN: 9780742503359. \[Preview with {{% resource_link "79c2dda2-a3c5-479e-9f7d-3840ada1c2fb" "Google Books" %}}\]
+Woo, Deborah. "The State of Research on The Glass Ceiling." In *Glass Ceilings and Asian Americans: The New Face of Workplace Barriers*. AltaMira Press, 2000. ISBN: 9780742503359. \[Preview with [Google Books](http://books.google.com/books?id=T9Xcsfe0pz4C&pg=PAfrontcover)\]
 
-The U.S. Equal Employment Opportunity Commission. {{% resource_link "2d07d742-d3d1-4946-9718-4569bab3be48" "Asian American and Pacific Islander Work Group (AAPI Work Group) Report" %}}, 2008.
+The U.S. Equal Employment Opportunity Commission. [Asian American and Pacific Islander Work Group (AAPI Work Group) Report](https://apiascholars.org/wp-content/uploads/2019/04/2008_CARE_Report.pdf), 2008.
 
-Jennifer, Berdahl L., and Min Ji-A. "{{% resource_link "1baccefc-95d0-4d95-bb64-78182bbc1298" "Prescriptive stereotypes and workplace consequences for East Asians in North America" %}}." *Cultural Diversity and Ethnic Minority Psychology* 18, no. 2 (2012): 141–52.
+Jennifer, Berdahl L., and Min Ji-A. "[Prescriptive stereotypes and workplace consequences for East Asians in North America](http://dx.doi.org/10.1037/a0027692)." *Cultural Diversity and Ethnic Minority Psychology* 18, no. 2 (2012): 141–52.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 5: Imperialism in the Philippines and the Migration of Colonials**
@@ -140,18 +140,18 @@ Jennifer, Berdahl L., and Min Ji-A. "{{% resource_link "1baccefc-95d0-4d95-bb64-
 {{< tdclose >}}{{< tdopen >}}
 Lecture Mini-workshop with Writing Advisor: Tips on Comparative Analysis
 {{< tdclose >}}{{< tdopen >}}
-Film Clip: {{% resource_link "bcadceea-ecb8-464b-9000-60779480ed43" "*Dollar a Day, Ten Cents a Dance*" %}}. Directed by Geoffrey Dunn and Mark Schwartz. Color, 29 min. 1984.
+Film Clip: [*Dollar a Day, Ten Cents a Dance*](http://www.imdb.com/title/tt1999139/). Directed by Geoffrey Dunn and Mark Schwartz. Color, 29 min. 1984.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
 Presentations Group I
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "a00daa9d-91cb-4384-94d9-f3ad9c42771f" "Survey of Race Relations Archives" %}}
+[Survey of Race Relations Archives](https://searchworks.stanford.edu/view/4088089)
 
 OR
 
-{{% resource_link "100ecc99-b61e-4973-a4e6-2eac4c8902bc" "South Asian American Digital Archive" %}}
+[South Asian American Digital Archive](http://www.saadigitalarchive.org/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 6: World War II and the Japanese-American Internment**
@@ -160,16 +160,16 @@ OR
 {{< tdclose >}}{{< tdopen >}}
 Lecture
 {{< tdclose >}}{{< tdopen >}}
-In-class Film Clip: {{% resource_link "934e8cee-f039-4306-8c10-fabf95e90516" "*Unfinished Business*" %}}. Directed by Steven Okazaki. Black and White / Color, 58 min. 1986.
+In-class Film Clip: [*Unfinished Business*](http://www.imdb.com/title/tt0092136/?ref_=fn_al_tt_4). Directed by Steven Okazaki. Black and White / Color, 58 min. 1986.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
 Discussion
 {{< tdclose >}}{{< tdopen >}}
 
-Houston, Jeanne. *Farewell to Manzanar*. Ember, 2012. ISBN: 9780307976079. \[Preview with {{% resource_link "a4beee9b-e09b-4739-a577-dbe53f98feca" "Google Books" %}}\]
+Houston, Jeanne. *Farewell to Manzanar*. Ember, 2012. ISBN: 9780307976079. \[Preview with [Google Books](http://books.google.com/books?id=0nuR5MRVzaEC&pg=PAfrontcover)\]
 
-Excerpt from Okubo. *Citizen 13660*. University of Washington Press, 1983. ISBN: 9780295959894. \[Preview with {{% resource_link "514ba2bf-1483-45bb-b93a-5d1def6e604b" "Google Books" %}}\]
+Excerpt from Okubo. *Citizen 13660*. University of Washington Press, 1983. ISBN: 9780295959894. \[Preview with [Google Books](http://books.google.com/books?id=HQSJXIoJSrUC&pg=PAfrontcover)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 7: Asian Americans in the Civil Rights Era**
@@ -190,7 +190,7 @@ Tachiki, Amy. *Roots: An Asian American Reader*. University of California La Asi
 {{< tdclose >}}{{< tdopen >}}
 Lecture
 {{< tdclose >}}{{< tdopen >}}
-Film Clip: {{% resource_link "0ea956ef-3ed6-42e5-b028-843ec9d3fe1c" "*A. K. A. Don Bonus*" %}}. Directed by Spencer Nakasako and Sokly Ny. Color. 65 min. 1995.
+Film Clip: [*A. K. A. Don Bonus*](http://www.imdb.com/title/tt0112267/). Directed by Spencer Nakasako and Sokly Ny. Color. 65 min. 1995.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
@@ -219,11 +219,11 @@ No readings. 
 Discussion: I. The Pew Report and Responses
 {{< tdclose >}}{{< tdopen >}}
 
-Pew Research Center Report: {{% resource_link "99a99629-8858-4025-b8ff-9a11a847758e" "\"The Rise of Asian Americans.\" (PDF - 2.7MB)" %}} 2012.
+Pew Research Center Report: ["The Rise of Asian Americans." (PDF - 2.7MB)](https://www.pewsocialtrends.org/2012/06/19/the-rise-of-asian-americans/) 2012.
 
-{{% resource_link "e9a8b450-2649-4b56-82c2-ddfe35abf3ed" "Statement From National Council of Asian Pacific Americans (NCAPA)" %}} on Pew Research Center study on Asian Americans, June 19, 2012.
+[Statement From National Council of Asian Pacific Americans (NCAPA)](http://www.pewsocialtrends.org/2012/06/19/the-rise-of-asian-americans/) on Pew Research Center study on Asian Americans, June 19, 2012.
 
-{{% resource_link "9bff95d5-5864-4465-8278-a8db111586de" "Letter to Pew Research Center" %}}–Asian American / Pacific Islander Policy Research Consortium, June 22, 2012.
+[Letter to Pew Research Center](http://www.aapiprc.com/home-1/pressreleases/pewopenletter)–Asian American / Pacific Islander Policy Research Consortium, June 22, 2012.
 
 Association for Asian American Studies Response to the Pew Center Report: "Rise of Asian Americans." 2012
 
@@ -231,29 +231,29 @@ Peterson, W. "Success Story: Japanese-American Style." *New York Times*, January
 
 "Success Story of One Minority Group in U.S." *U.S. News & World Report*, December 1966.
 
-Okihiro, Gary Y. *Margins and Mainstreams: Asians in American History and Culture*. University of Washington Press 1994, pp. 140–47. ISBN: 9780295973395. \[Preview with {{% resource_link "6d2a8bec-ed12-4b4b-aa1f-a0b13c148b85" "Google Books" %}}\]
+Okihiro, Gary Y. *Margins and Mainstreams: Asians in American History and Culture*. University of Washington Press 1994, pp. 140–47. ISBN: 9780295973395. \[Preview with [Google Books](http://books.google.com/books?id=HblFR1g651AC&pg=PAfrontcover)\]
 
-Suzuki, Bob H. {{% resource_link "d031c067-9ce7-4bf3-820d-de05fc0adeb2" "\"Revisiting the Model Minority Stereotype: Implications for Student Affairs Practice and Higher Education.\"" %}}  *New Directions for Student Services* 2002, no. 97. (2002): 21-32.
+Suzuki, Bob H. ["Revisiting the Model Minority Stereotype: Implications for Student Affairs Practice and Higher Education."](http://onlinelibrary.wiley.com/doi/10.1002/ss.36/abstract)  *New Directions for Student Services* 2002, no. 97. (2002): 21-32.
 
-Tang, Joyce. "{{% resource_link "c74367a0-39f8-4dc4-bae9-17260b1d66a7" "The Model Minority Thesis Revisited: (Counter) Evidence From the Science and Engineering Fields" %}}." *Journal of Applied Behavioral Science* 33, no. 3 (1997): 291–315.
+Tang, Joyce. "[The Model Minority Thesis Revisited: (Counter) Evidence From the Science and Engineering Fields](http://dx.doi.org/10.1177/0021886397333003)." *Journal of Applied Behavioral Science* 33, no. 3 (1997): 291–315.
 
-National Commission on Asian American and Pacific Islander Research in Education, {{% resource_link "50b775cd-c258-4437-ad2f-c861a17b603e" "*Asian Americans and Pacific Islanders Facts, Not Fiction: Setting the Record Straight*, (PDF)" %}} 2008 III. The Glass Ceiling / Bamboo Ceiling.
+National Commission on Asian American and Pacific Islander Research in Education, [*Asian Americans and Pacific Islanders Facts, Not Fiction: Setting the Record Straight*, (PDF)](http://professionals.collegeboard.com/profdownload/08-0608-AAPI.pdf) 2008 III. The Glass Ceiling / Bamboo Ceiling.
 
-Woo, Deborah. "The State of Research on The Glass Ceiling." In *Glass Ceilings and Asian Americans: The New Face of Workplace Barriers*. AltaMira Press, 2000. ISBN: 9780742503359. \[Preview with {{% resource_link "79c2dda2-a3c5-479e-9f7d-3840ada1c2fb" "Google Books" %}}\]
+Woo, Deborah. "The State of Research on The Glass Ceiling." In *Glass Ceilings and Asian Americans: The New Face of Workplace Barriers*. AltaMira Press, 2000. ISBN: 9780742503359. \[Preview with [Google Books](http://books.google.com/books?id=T9Xcsfe0pz4C&pg=PAfrontcover)\]
 
-The U.S. Equal Employment Opportunity Commission, {{% resource_link "53f5252f-8140-41a3-9732-5c5878e53edb" "Asian American and Pacific Islander Work Group (AAPI Work Group) Report" %}}, 2008.
+The U.S. Equal Employment Opportunity Commission, [Asian American and Pacific Islander Work Group (AAPI Work Group) Report](http://www.eeoc.gov/federal/reports/aapi.html), 2008.
 
-Berdahl, Jennifer L., and Min Ji-A. "{{% resource_link "1baccefc-95d0-4d95-bb64-78182bbc1298" "Prescriptive Stereotypes and Workplace Consequences for East Asians in North America" %}}." *Cultural Diversity and Ethnic Minority Psychology* 18, no. 2 (2012): 141–52.
+Berdahl, Jennifer L., and Min Ji-A. "[Prescriptive Stereotypes and Workplace Consequences for East Asians in North America](http://dx.doi.org/10.1037/a0027692)." *Cultural Diversity and Ethnic Minority Psychology* 18, no. 2 (2012): 141–52.
 
-Room for Debate: "{{% resource_link "f44948c6-53c2-4879-af7f-f8b8b10da3ba" "Fears of an Asian Quota in the Ivy League" %}}," *New York Times*, December 19, 2012.
+Room for Debate: "[Fears of an Asian Quota in the Ivy League](http://www.nytimes.com/roomfordebate/2012/12/19/fears-of-an-asian-quota-in-the-ivy-league)," *New York Times*, December 19, 2012.
 
-Hsu, Andrea. {{% resource_link "b41deb72-1197-4228-9e4c-7d64cfdfa4fd" "Asian-Americans Face Dilemma in Debate Over Affirmitive Action" %}}. NPR. November, 21, 2012.
+Hsu, Andrea. [Asian-Americans Face Dilemma in Debate Over Affirmitive Action](http://www.npr.org/blogs/thetwo-way/2012/11/21/165654268/as-talk-ofaffirmative-action-heats-up-asians-contemplate-their-position). NPR. November, 21, 2012.
 
-{{% resource_link "8e185c29-a6f0-4cc0-a327-fb2e6d77e1d8" "Advancing Justice" %}} materials on Fisher v. UT Austin.
+[Advancing Justice](http://www.advancingjustice-alc.org/news_and_media/amicus-brief-fisher-v-university-of-texas/) materials on Fisher v. UT Austin.
 
 ### Recommended Readings
 
-Woo, Deborah. United States Glass Ceiling Commission. "{{% resource_link "4948e4d5-0c13-4fd8-9753-229be9bf3823" "The Glass Ceiling and Asian Americans.\" (PDF)" %}} 1994.
+Woo, Deborah. United States Glass Ceiling Commission. "[The Glass Ceiling and Asian Americans." (PDF)](http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1130&context=key_workplace) 1994.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 10: Asian Americans in Asia**
@@ -262,7 +262,7 @@ Woo, Deborah. United States Glass Ceiling Commission. "{{% resource_link "4948e4
 {{< tdclose >}}{{< tdopen >}}
 Special Lecture: Asian Americans Working in Asia, Professor Edward J. W. Park
 {{< tdclose >}}{{< tdopen >}}
-Park, Edward J. W. "{{% resource_link "560ef167-34a2-4e87-ba97-7d34873798c1" "Racial Ideology and Hiring Decisions in Silicon Valley" %}}." *Qualitative Sociology* 22, no. 3 (1999): 223–33.
+Park, Edward J. W. "[Racial Ideology and Hiring Decisions in Silicon Valley](http://dx.doi.org/10.1023/A:1022905821460)." *Qualitative Sociology* 22, no. 3 (1999): 223–33.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
@@ -283,15 +283,15 @@ No readings.
 Discussion
 {{< tdclose >}}{{< tdopen >}}
 
-Park, Edward J. W. "{{% resource_link "bb8cd85b-69ec-4715-a4a2-a55840c0adaa" "Friends or Enemies?: Generational Politics in the Korean American Community in Los Angeles" %}}." *Qualitative Sociology* 22, no. 2 (1999): 161–75.
+Park, Edward J. W. "[Friends or Enemies?: Generational Politics in the Korean American Community in Los Angeles](http://dx.doi.org/10.1023/A:1022076108969)." *Qualitative Sociology* 22, no. 2 (1999): 161–75.
 
-Park, Kyeyoung. "The Gravitation to Small Business." Chapter 3 in *The Korean American Dream: Immigrants and Small Business in New York City*. Cornell University Press, 1997, pp. 36–70.  ISBN: 9780801483912. \[Preview with {{% resource_link "25a8047e-6237-45f0-9208-164fadc1735c" "Google Books" %}}\]
+Park, Kyeyoung. "The Gravitation to Small Business." Chapter 3 in *The Korean American Dream: Immigrants and Small Business in New York City*. Cornell University Press, 1997, pp. 36–70.  ISBN: 9780801483912. \[Preview with [Google Books](http://books.google.com/books?id=GckZUmaXBJoC&pg=PA36=onepage)\]
 
-———. "{{% resource_link "c4cc0f74-ff22-43e7-aada-08573c168487" "The Re-Invention of Affirmative Action: Korean Immigrants' Changing Conceptions of African Americans And Latin Americans" %}}." *Urban Anthropology and Studies of Cultural Systems and World Economic Development* 24, no. 1–2 (1995): 59–92.
+———. "[The Re-Invention of Affirmative Action: Korean Immigrants' Changing Conceptions of African Americans And Latin Americans](http://www.jstor.org/stable/40553279)." *Urban Anthropology and Studies of Cultural Systems and World Economic Development* 24, no. 1–2 (1995): 59–92.
 
-———. Forum: "{{% resource_link "ee14245a-e16a-479e-946a-01ac7ef09aef" "Use and Abuse of Race and Culture: Black- Korean Tension in America" %}}." *American Anthropologist* 98, no. 30 (1996).
+———. Forum: "[Use and Abuse of Race and Culture: Black- Korean Tension in America](http://www.jstor.org/stable/682717)." *American Anthropologist* 98, no. 30 (1996).
 
-Film: Kim-Gibson, Dai Sil, Christine Choy, and Elaine Kim. {{% resource_link "eb6d4907-98b6-4c75-a97a-1516e689e4da" "*Sa-I-Gu*" %}}. 1993. 
+Film: Kim-Gibson, Dai Sil, Christine Choy, and Elaine Kim. [*Sa-I-Gu*](http://www.pbs.org/pov/saigu/). 1993. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 12: Second Wave Immigrants–South Asian Americans, Ethnic Identity and the Second-Generation**
@@ -307,15 +307,15 @@ No readings.
 Discussion
 {{< tdclose >}}{{< tdopen >}}
 
-Maira, Sunaina."{{% resource_link "e4941e24-b1e4-4429-b816-dbf1b0c4b09a" "Youth Culture, Citizenship and Globalization: South Asian Muslim Youth in the United States after September 11" %}}{{< sup "th" >}}." *Comparative Studies of South Asia, Africa and the Middle East* 24, no. 1 (2004): 219–31.
+Maira, Sunaina."[Youth Culture, Citizenship and Globalization: South Asian Muslim Youth in the United States after September 11](https://muse.jhu.edu/journals/comparative_studies_of_south_asia_africa_and_the_middle_east/v024/24.1maira.html){{< sup "th" >}}." *Comparative Studies of South Asia, Africa and the Middle East* 24, no. 1 (2004): 219–31.
 
-———. "{{% resource_link "127f9354-115f-4964-b35a-f965fddcbd7a" "Identity Dub: The Paradoxes of an Indian American Youth Subculture (New York Mix)" %}}." *Cultural Anthropology* 14, no. 1 (1999): 29–60.
+———. "[Identity Dub: The Paradoxes of an Indian American Youth Subculture (New York Mix)](http://www.jstor.org/stable/656528)." *Cultural Anthropology* 14, no. 1 (1999): 29–60.
 
-Dhingra, Pawan. "{{% resource_link "e3fdc381-c610-4cf0-b0f0-7aca4ffb02f0" "Committed to Ethnicity, Committed to America: How Second-Generation Indian Americans’ Ethnic Boundaries Further their Americanisation" %}}." *Journal of Intercultural Studies* 29, no. 1 (2008): 41–63.
+Dhingra, Pawan. "[Committed to Ethnicity, Committed to America: How Second-Generation Indian Americans’ Ethnic Boundaries Further their Americanisation](http://dx.doi.org/10.1080/07256860701759931)." *Journal of Intercultural Studies* 29, no. 1 (2008): 41–63.
 
-———. "{{% resource_link "b504d3fb-7d35-41d4-9d14-a11416e57a85" "Hospitable to Others: Indian American Motel Owners Create Boundaries and Belonging in the Heartland" %}}." *Ethnic and Racial Studies* 33, no. 6 (2010): 1088–107. (Recommended)
+———. "[Hospitable to Others: Indian American Motel Owners Create Boundaries and Belonging in the Heartland](http://dx.doi.org/10.1080/01419870903307923)." *Ethnic and Racial Studies* 33, no. 6 (2010): 1088–107. (Recommended)
 
-Prashad, Vijay. "Of the Origin of Desis" and "Of Antiblack Racism." In *The Karma of Brown Folk*. University of Minnesota Press, 2001. ISBN: 9780816634392. \[Preview with {{% resource_link "c6500d0c-c5ea-4445-a27f-686e276a3e6f" "Google Books" %}}\]
+Prashad, Vijay. "Of the Origin of Desis" and "Of Antiblack Racism." In *The Karma of Brown Folk*. University of Minnesota Press, 2001. ISBN: 9780816634392. \[Preview with [Google Books](http://books.google.com/books?id=j7YmWfbNtNcC&pg=PA76=onepage)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 13: New Immigrants, New Identities**
