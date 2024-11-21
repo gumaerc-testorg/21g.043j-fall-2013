@@ -253,7 +253,7 @@ Hsu, Andrea. [Asian-Americans Face Dilemma in Debate Over Affirmitive Action](ht
 
 ### Recommended Readings
 
-Woo, Deborah. United States Glass Ceiling Commission. "[The Glass Ceiling and Asian Americans." (PDF)](http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1130&context=key_workplace) 1994.
+Woo, Deborah. United States Glass Ceiling Commission. "[The Glass Ceiling and Asian Americans." (PDF)](https://ecommons.cornell.edu/server/api/core/bitstreams/5f6e631f-4090-4032-bbdd-53e7d071afb6/content) 1994.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 10: Asian Americans in Asia**
