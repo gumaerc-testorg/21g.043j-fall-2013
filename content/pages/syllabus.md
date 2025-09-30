@@ -102,8 +102,8 @@ If you are dealing with a personal or medical issue that is impacting your abili
 
 ### Academic Integrity Policy
 
-I expect all students to be familiar with MIT's policies and guidelines on academic integrity as outlined in the handbook on [academic integrity](http://web.mit.edu/academicintegrity/).   
-Please review all the guidelines in the handbook, including the information on responsible [paraphrasing](http://web.mit.edu/academicintegrity/writing/paraphrasing.html). You will also be expected to review the guidelines for copyright and fair use, provided by MIT libraries.
+I expect all students to be familiar with MIT's policies and guidelines on academic integrity as outlined in the handbook on {{% resource_link "49ac2037-27c1-41a1-af95-99ac72ed42eb" "academic integrity" %}}.   
+Please review all the guidelines in the handbook, including the information on responsible {{% resource_link "3e35105f-fdbc-4b23-a948-f31295988d5b" "paraphrasing" %}}. You will also be expected to review the guidelines for copyright and fair use, provided by MIT libraries.
 
 Plagiarism and other forms of academic dishonesty are serious offenses and will be dealt with according to MIT policy and procedures.
 
@@ -244,7 +244,7 @@ Chinatown Field Trip writeup due
 {{< tdclose >}}{{< tdopen >}}
 Guest Lecture: Asian Americans Working in Asia
 {{< tdclose >}}{{< tdopen >}}
-Guest lecture: Professor [Edward J. W. Park](https://bellarmine.lmu.edu/aaas/faculty/?expert=edwardjw.park)
+Guest lecture: Professor {{% resource_link "68aad175-36b5-4efe-b5c8-fd167e23dd1b" "Edward J. W. Park" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
@@ -258,7 +258,7 @@ Writing Workshop
 {{< tdclose >}}{{< tdopen >}}
 Guest Lecture
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecture: Professor [Min Song](https://www.bc.edu/bc-web/schools/mcas/departments/english/people/faculty-directory/min-hyoung--song.html)
+Guest Lecture: Professor {{% resource_link "ce00053c-ffb7-4dac-80a7-648f4ed2b512" "Min Song" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -272,7 +272,7 @@ Discussion
 {{< tdclose >}}{{< tdopen >}}
 Guest Lecture
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecture: Professor [Pawan Dhingra](http://ase.tufts.edu/sociology/facultyDhingra.asp)
+Guest Lecture: Professor {{% resource_link "45a59261-35fb-41ff-80a3-bc2396cda639" "Pawan Dhingra" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
