@@ -14,7 +14,7 @@ uid: 59a07462-ee29-7417-74f8-4bd1702ce55a
 
 To prepare for your Chinatown **scavenger hunt**:
 
-*   Briefly scan through the Boston section (page 1494 on) of the [International Chinese Business Directory](https://babel.hathitrust.org/cgi/pt?id=uc1.$b440600;view=1up;seq=9) of 1913.
+*   Briefly scan through the Boston section (page 1494 on) of the {{% resource_link "e363d39f-d162-4b17-8694-f56b864477fd" "International Chinese Business Directory" %}} of 1913.
 *   What types of businesses do you see listed? What types of business names?
 *   Then **visit Chinatown and observe with your own eyes!**
 *   What parts of historic Chinatown exist today? What has disappeared?
