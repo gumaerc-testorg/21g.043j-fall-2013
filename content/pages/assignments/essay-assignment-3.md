@@ -12,7 +12,7 @@ title: Paper Assignment 3
 uid: 6e681dd3-ac23-30a3-8a81-904667d69c23
 ---
 
-In 2012, the Pew Research Center issued a report on "[The Rise of Asian Americans](http://www.pewsocialtrends.org/2012/06/19/the-rise-of-asian-americans/)," claiming that: "Asian Americans are the highest-income, best-educated and fastest-growing racial group in the United States. They are more satisfied than the general public with their lives, finances and the direction of the country, and they place more value than other Americans do on marriage, parenthood, hard work and career success…" This report received much attention in the press, but was sharply criticized by many Asian American organizations and commentators, who contended that the report was inaccurate and one-sided, and that it furthermore perpetuated the model minority myth, contributing to the formation of Asian Americans as an "invisible" or "forgotten minority."
+In 2012, the Pew Research Center issued a report on "{{% resource_link "9a9e57f5-97e9-49d1-ac7c-645bb0bfc216" "The Rise of Asian Americans" %}}," claiming that: "Asian Americans are the highest-income, best-educated and fastest-growing racial group in the United States. They are more satisfied than the general public with their lives, finances and the direction of the country, and they place more value than other Americans do on marriage, parenthood, hard work and career success…" This report received much attention in the press, but was sharply criticized by many Asian American organizations and commentators, who contended that the report was inaccurate and one-sided, and that it furthermore perpetuated the model minority myth, contributing to the formation of Asian Americans as an "invisible" or "forgotten minority."
 
 Essay Prompt
 ------------
